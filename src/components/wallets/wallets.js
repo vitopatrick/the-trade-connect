@@ -3,64 +3,64 @@ import ethLogo from "../../img/eth.png";
 import ltcLogo from "../../img/ltc.png";
 import usdtLogo from "../../img/usdt.png";
 import bnbLogo from "../../img/bnb.png";
-import dogeLogo from "../../img/doge.png";
+// import dogeLogo from "../../img/doge.png";
 import tronLogo from "../../img/tron.png";
-import shibaLogo from "../../img/shiba.png";
-import btccLogo from "../../img/btcc.png";
+// import shibaLogo from "../../img/shiba.png";
+// import btccLogo from "../../img/btcc.png";
 
 export const wallets = [
   {
     coin: "Bitcoin",
-    address: "bc1qj39lt27gdurxm20skhztxussrh6p5kdsq4mepz",
+    address: "3NW9VvvfuhpZ9tibvUys5JQHLfxKtRnKcq",
     addressName: "BTC Address",
     icon: BtcLogo,
   },
   {
     coin: "Ethereum ",
-    address: "0xef8Ea6d059dDD47AaD4F7A5F190352688600d554",
+    address: "0xA3c9c8a2466107E9BFD2C067c2DC37F18559dA2b",
     addressName: "ETH Address:",
     icon: ethLogo,
   },
   {
     coin: "Litecoin",
-    address: "ltc1qd60t8a0qv866ltht9xq59s02prdn68j3eqlktf",
+    address: "MPp8dz1oMUsr641GjFNeKNCEJJGQnBoZ3p",
     addressName: "LTC Address",
     icon: ltcLogo,
   },
   {
     coin: "USDT",
-    address: "TCRK3iRwaSg6BMVQdnjLYACASPiF9gqZ4c",
+    address: "TVdAzHK24oAa92FcGReEexRa59v4KCquwP",
     addressName: "USDT Address",
     icon: usdtLogo,
   },
   {
     coin: "BNB",
-    address: "bnb1qwsu84a7yrxf74e2yzz23zy2nul0wggk93u628",
+    address: "bnb1elx3at8cs5f3gmsv0m099aezw2537grhp0wq8v",
     addressName: "BNB Address",
     icon: bnbLogo,
   },
-  {
-    coin: "DOGE ",
-    address: "DCaesiayioshxstDwW92ocFChwshjYGm8X",
-    addressName: "Dogecoin Address",
-    icon: dogeLogo,
-  },
+  // {
+  //   coin: "DOGE ",
+  //   address: "DCaesiayioshxstDwW92ocFChwshjYGm8X",
+  //   addressName: "Dogecoin Address",
+  //   icon: dogeLogo,
+  // },
   {
     coin: "TRON ",
-    address: "TCRK3iRwaSg6BMVQdnjLYACASPiF9gqZ4c",
+    address: "TVdAzHK24oAa92FcGReEexRa59v4KCquwP",
     addressName: "TRON Address",
     icon: tronLogo,
   },
-  {
-    coin: "SHIBA",
-    address: "0xef8Ea6d059dDD47AaD4F7A5F190352688600d554",
-    addressName: "SHIBA Address",
-    icon: shibaLogo,
-  },
-  {
-    coin: "BITCOIN CASH",
-    address: "qrpx7wgv37qpaf3jealnrylg5kg37htv2yw326mymn",
-    addressName: "BCH Address",
-    icon: btccLogo,
-  },
+  // {
+  //   coin: "SHIBA",
+  //   address: "0xef8Ea6d059dDD47AaD4F7A5F190352688600d554",
+  //   addressName: "SHIBA Address",
+  //   icon: shibaLogo,
+  // },
+  // {
+  //   coin: "BITCOIN CASH",
+  //   address: "qrpx7wgv37qpaf3jealnrylg5kg37htv2yw326mymn",
+  //   addressName: "BCH Address",
+  //   icon: btccLogo,
+  // },
 ];
