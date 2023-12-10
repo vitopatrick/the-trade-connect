@@ -7,13 +7,14 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA2lv6o8esmp7vGMOcOsxzEcMupdv6S8FM",
-  authDomain: "bitpay-site.firebaseapp.com",
-  projectId: "bitpay-site",
-  storageBucket: "bitpay-site.appspot.com",
-  messagingSenderId: "349384195746",
-  appId: "1:349384195746:web:416c5cb29202ef239421fb",
+  apiKey: "AIzaSyDesvFcvjexNJavo2yPZiAL_AjUUYmQwMs",
+  authDomain: "bitpay-fddca.firebaseapp.com",
+  projectId: "bitpay-fddca",
+  storageBucket: "bitpay-fddca.appspot.com",
+  messagingSenderId: "275512799478",
+  appId: "1:275512799478:web:d7ae47b046413fa6bb7cd7",
 };
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
