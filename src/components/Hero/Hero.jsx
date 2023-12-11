@@ -10,9 +10,11 @@ const Hero = () => {
       <div
         className="hero"
         style={{
-          backgroundImage: "url(/img/bg-img.jpg)",
+          backgroundImage: "url(/img/bg-img.jpeg)",
           height: "70vh",
           position: "relative",
+          backgroundSize: "cover",
+          backgroundRepeat: "no-repeat",
         }}
       >
         <div className="hero__overlay">
