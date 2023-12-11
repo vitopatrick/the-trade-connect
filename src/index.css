@@ -34,6 +34,6 @@ input,
 select,
 textarea,
 label,
-button {
+button,a {
   font-family: "Josefin Sans", sans-serif;
 }
