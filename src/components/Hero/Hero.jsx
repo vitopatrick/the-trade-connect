@@ -10,8 +10,8 @@ const Hero = () => {
       <div
         className="hero"
         style={{
-          backgroundImage: "url(/img/bg-img.jpeg)",
-          height: "70vh",
+          backgroundImage: "url('/img/bitpay.png')",
+          height: "70dvh",
           position: "relative",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
