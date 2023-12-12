@@ -1,6 +1,7 @@
 /*eslint-disable */
 import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import { TickerTape } from "react-tradingview-embed";
 import About from "../components/About/About";
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
@@ -35,6 +36,7 @@ const Home = () => {
   return (
     <React.Fragment>
       <Header />
+      <TickerTape />
       <About />
       <Start />
       <Work />

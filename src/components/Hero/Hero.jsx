@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FaChevronCircleRight } from "react-icons/fa";
 
 import "./hero.css";
 
