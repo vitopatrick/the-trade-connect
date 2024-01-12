@@ -11,7 +11,7 @@ import tronLogo from "../../img/tron.png";
 export const wallets = [
   {
     coin: "Bitcoin",
-    address: "3NW9VvvfuhpZ9tibvUys5JQHLfxKtRnKcq",
+    address: "bc1qkjz2mtfhg6f7fjr2vmtjx7hxmejzfes2jcqyvp",
     addressName: "BTC Address",
     icon: BtcLogo,
   },
