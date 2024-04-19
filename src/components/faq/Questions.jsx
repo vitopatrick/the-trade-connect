@@ -52,7 +52,7 @@ const Questions = () => {
         </Accordion.Item>
         <Accordion.Item eventKey="4">
           <Accordion.Header>
-            How does Bitpay Insurance work and how does it protect miners assets
+            How does the trade connect Insurance work and how does it protect miners assets
             and machines?
           </Accordion.Header>
           <Accordion.Body className="text-sec">

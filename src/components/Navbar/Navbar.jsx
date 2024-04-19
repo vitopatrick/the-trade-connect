@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="container">
           <Link to="/">
             <div className="img-res">
-              <h1 className="title">Bitpay</h1>
+              <h1 className="title">the trade connect</h1>
             </div>
           </Link>
           <div>

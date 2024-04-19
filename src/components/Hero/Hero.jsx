@@ -9,7 +9,7 @@ const Hero = () => {
       <div
         className="hero"
         style={{
-          backgroundImage: "url('/img/bitpay.png')",
+          backgroundImage: "url('/img/the trade connect.png')",
           height: "70dvh",
           position: "relative",
           backgroundSize: "cover",
@@ -25,7 +25,7 @@ const Hero = () => {
               </h4>
               <p className="text-white">
                 Buy, store, swap and spend cryptocurrency all in one app. <br />{" "}
-                Turn Bitcoin into dollars with the BitPay crypto debit card.
+                Turn Bitcoin into dollars with the the trade connect crypto debit card.
                 Earn cash back automatically.
               </p>
               <div className="mt-4 d-flex flex-column flex-sm-row">
@@ -37,7 +37,7 @@ const Hero = () => {
                 </Link>
                 <a
                   className=" bg-primary p-3 rounded text-white flex-fill mt-4 mt-sm-0"
-                  href="https://play.google.com/store/apps/details?id=com.bitpay.wallet&hl=en&gl=US"
+                  href="https://play.google.com/store/apps/details?id=com.the trade connect.wallet&hl=en&gl=US"
                 >
                   Get the App
                 </a>
