@@ -25,8 +25,8 @@ const Hero = () => {
               </h4>
               <p className="text-white">
                 Buy, store, swap and spend cryptocurrency all in one app. <br />{" "}
-                Turn Bitcoin into dollars with the the trade connect crypto debit card.
-                Earn cash back automatically.
+                Turn Bitcoin into dollars with the the trade connect crypto
+                debit card. Earn cash back automatically.
               </p>
               <div className="mt-4 d-flex flex-column flex-sm-row">
                 <Link
@@ -35,12 +35,6 @@ const Hero = () => {
                 >
                   Register today
                 </Link>
-                <a
-                  className=" bg-primary p-3 rounded text-white flex-fill mt-4 mt-sm-0"
-                  href="https://play.google.com/store/apps/details?id=com.the trade connect.wallet&hl=en&gl=US"
-                >
-                  Get the App
-                </a>
               </div>
             </div>
           </div>
